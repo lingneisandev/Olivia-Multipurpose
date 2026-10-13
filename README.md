@@ -48,6 +48,7 @@
 7. `npm start`
 
 > 🐾 Actively developed — may still have bugs.
+> Development by Neko X Ling Neisan Devz
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:29b6f6&height=120&section=footer" />
