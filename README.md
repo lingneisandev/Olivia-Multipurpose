@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:29b6f6&height=180&section=header&text=Discord%20Bot&fontSize=45&fontColor=01579b&fontAlignY=35&animation=fadeIn&desc=Self-hosted%20%7C%20Full%20featured&descAlignY=58&descSize=18&descColor=01579b" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:29b6f6&height=180&section=header&text=Discord%20Bot&fontSize=45&fontColor=01579b&fontAlignY=35&animation=fadeIn&desc=Multipurpose%20%7C%20Full%20featured&descAlignY=58&descSize=18&descColor=01579b" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=29B6F6&center=true&vCenter=true&width=520&lines=Moderation+%7C+Tickets+%7C+Clans;Economy+%7C+Levels+%7C+Auto+Setup;Built+with+discord.js" alt="typing" />
 
@@ -33,7 +33,7 @@
 
 ## 💙 Highlights
 
-- **Self-hosted, full control** — your data, your MongoDB, your bot token.
+- **Multipurpose, full control** — your data, your MongoDB, your bot token.
 - **Open source** — every command is a readable file you can change.
 - **Actively developed** — real logic (economy, clans, moderation, channel locks...) keeps landing.
 
